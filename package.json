@@ -1,0 +1,20 @@
+{
+    "name": "openehr-types",
+    "version": "1.0.0",
+    "description": "Type definitions for the openEHR specification.",
+    "types": "./index.d.ts",
+    "scripts": {},
+    "author": "Big Picture Medical",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/big-picture-medical/openEHR-types.git"
+    },
+    "keywords": [
+        "openEHR"
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/big-picture-medical/openEHR-types/issues"
+    },
+    "homepage": "https://github.com/big-picture-medical/openEHR-types#readme"
+}
