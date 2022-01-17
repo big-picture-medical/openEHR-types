@@ -1,20 +1,20 @@
 {
-    "name": "openehr-types",
+    "name": "openehr-structsdt-types",
     "version": "1.0.0",
-    "description": "Type definitions for the openEHR specification.",
+    "description": "StructSDT type definitions for the openEHR specification.",
     "types": "./index.d.ts",
     "scripts": {},
     "author": "Big Picture Medical",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/big-picture-medical/openEHR-types.git"
+        "url": "git+https://github.com/big-picture-medical/openehr-structsdt-types.git"
     },
     "keywords": [
         "openEHR"
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/big-picture-medical/openEHR-types/issues"
+        "url": "https://github.com/big-picture-medical/openehr-structsdt-types/issues"
     },
-    "homepage": "https://github.com/big-picture-medical/openEHR-types#readme"
+    "homepage": "https://github.com/big-picture-medical/openehr-structsdt-types#readme"
 }
